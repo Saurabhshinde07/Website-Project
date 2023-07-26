@@ -1,0 +1,83 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url(WhatsApp%20Image%202021-06-05%20at%2010.26.46%20PM.jpeg);
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+}
+
+.best{
+    height: 100px;
+    width: 200px;
+    position: relative;
+    top: 10px;
+}
+
+.choose{
+   width: 320px;
+    height: 350px;
+    color: black;
+    top: 30%;
+    left: 40%;
+    position: absolute;
+    text-align: center;
+    transform: translate(-50%.-50%);
+    box-sizing: border-box;
+    padding: 5px 5px;
+}
+
+.toggle-btn1{
+    padding: 10px 30px;
+    font-size: 20px;
+    padding: 10px 30px;
+    cursor: pointer;
+    border: 0;
+    top: 30px;
+    background: red;
+    color: #fff;
+    outline: none;
+    position: relative;
+    border-radius: 20px;
+}
+
+.toggle-btn2{
+    font-size: 20px;
+    padding: 10px 30px;
+    cursor: pointer;
+    border: 0;
+    background: red;
+    top: 60px;
+    color: #fff;
+    outline: none;
+    position: relative;
+    border-radius: 20px;
+}
+
+
+.toggle-btn1:hover
+{
+    cursor: pointer;
+    background: #ffc107;
+    color: #000;
+}
+
+.toggle-btn2:hover
+{
+    cursor: pointer;
+    background: #ffc107;
+    color: #000;
+}
+
+.toggle-btn1 a{
+    text-decoration: none;
+    font-size: 12px;
+    line-height: 20px;
+    color: darkgray;
+}
+
+.toggle-btn2 a:hover
+{
+    color: #ffc107;
+}
+

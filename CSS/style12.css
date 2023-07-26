@@ -1,0 +1,112 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url(WhatsApp%20Image%202021-06-05%20at%2010.26.46%20PM.jpeg);
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+}
+
+.best{
+    height: 100px;
+    width: 200px;
+    position: relative;
+    top: 10px;
+}
+
+.down{
+   width: 320px;
+    height: 320px;
+    color: black;
+    top: 30%;
+    left: 40%;
+    position: absolute;
+    text-align: center;
+    transform: translate(-50%.-50%);
+    box-sizing: border-box;
+    padding: 5px 5px;
+}
+
+.toggle-btn4{
+    padding: 10px 30px;
+    font-size: 20px;
+    padding: 10px 30px;
+    cursor: pointer;
+    border: 0;
+    background: red;
+    color: #fff;
+    outline: none;
+    position: relative;
+    border-radius: 20px;
+}
+
+.toggle-btn5{
+    padding: 10px 30px;
+    font-size: 20px;
+    padding: 10px 30px;
+    cursor: pointer;
+    border: 0;
+    top: 10px;
+    background: red;
+    color: #fff;
+    outline: none;
+    position: relative;
+    border-radius: 20px;
+}
+
+.toggle-btn6{
+    padding: 10px 30px;
+    font-size: 20px;
+    padding: 10px 30px;
+    cursor: pointer;
+    border: 0;
+    top: 20px;
+    background: red;
+    color: #fff;
+    outline: none;
+    position: relative;
+    border-radius: 20px;
+}
+
+.toggle-btn7{
+    padding: 10px 30px;
+    font-size: 20px;
+    padding: 10px 30px;
+    cursor: pointer;
+    border: 0;
+    top: 30px;
+    background: red;
+    color: #fff;
+    outline: none;
+    position: relative;
+    border-radius: 20px;
+}
+
+
+.toggle-btn4:hover
+{
+    cursor: pointer;
+    background: #ffc107;
+    color: #000;
+}
+
+.toggle-btn5:hover
+{
+    cursor: pointer;
+    background: #ffc107;
+    color: #000;
+}
+
+.toggle-btn6:hover
+{
+    cursor: pointer;
+    background: #ffc107;
+    color: #000;
+}
+
+.toggle-btn7:hover
+{
+    cursor: pointer;
+    background: #ffc107;
+    color: #000;
+}

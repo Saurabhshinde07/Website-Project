@@ -1,0 +1,227 @@
+.best{
+    height: 100px;
+    width: 200px;
+    position: relative;
+    top: 10px;
+}
+
+.button-box{
+    width: 110px;
+    margin: 35px auto;
+    position: relative;
+    box-shadow: 0 0 20px 9px #ff61241f;
+    border-radius: 30px;
+    
+}
+
+.toggle-btn{
+    padding: 10px 30px;
+    background: transparent;
+    border: 0;
+    outline: none;
+    position: relative;
+}
+
+#btn{
+    top: 0;
+    left: 0;
+    position: absolute;
+    width: 110px;
+    height: 100%;
+    background: linear-gradient(to right, #ff105f,#ffad06);
+    border-radius: 30px;
+    transition: .5s;
+}
+
+.space{
+     width: 600px;
+    height: 500px;
+    position: absolute;
+    top: 70px;
+    left: 460px;
+}
+
+.space1{
+     width: 1000px;
+    height: 500px;
+    position: absolute;
+    top: 600px;
+    left: 200px;
+}
+
+.toggle-btn1{
+    padding: 10px 30px;
+    font-size: 20px;
+    padding: 10px 30px;
+    cursor: pointer;
+    border: 0;
+    top: 800px;
+    left: 700px;
+    background: red;
+    color: #fff;
+    outline: none;
+    position: relative;
+    border-radius: 20px;
+}
+
+.toggle-btn1:hover
+{
+    cursor: pointer;
+    background: #ffc107;
+    color: #000;
+}
+
+.space2{
+     width: 500px;
+    height: 500px;
+    position: absolute;
+    top: 1100px;
+    left: 500px;
+}
+
+.space3{
+     width: 1000px;
+    height: 500px;
+    position: absolute;
+    top: 1600px;
+    left: 200px;
+}
+
+.toggle-btn2{
+    padding: 10px 30px;
+    font-size: 20px;
+    padding: 10px 30px;
+    cursor: pointer;
+    border: 0;
+    top: 1850px;
+    left: 700px;
+    background: red;
+    color: #fff;
+    outline: none;
+    position: relative;
+    border-radius: 20px;
+}
+
+.toggle-btn2:hover
+{
+    cursor: pointer;
+    background: #ffc107;
+    color: #000;
+}
+
+.space4{
+     width: 700px;
+    height: 600px;
+    position: absolute;
+    top: 2200px;
+    left: 400px;
+}
+
+.space5{
+     width: 1000px;
+    height: 500px;
+    position: absolute;
+    top: 2800px;
+    left: 200px;
+}
+
+.toggle-btn3{
+    padding: 10px 30px;
+    font-size: 20px;
+    padding: 10px 30px;
+    cursor: pointer;
+    border: 0;
+    top: 3000px;
+    left: 700px;
+    background: red;
+    color: #fff;
+    outline: none;
+    position: relative;
+    border-radius: 20px;
+}
+
+.toggle-btn3:hover
+{
+    cursor: pointer;
+    background: #ffc107;
+    color: #000;
+}
+
+.space6{
+     width: 700px;
+    height: 600px;
+    position: absolute;
+    top: 3400px;
+    left: 400px;
+}
+
+.space7{
+     width: 1000px;
+    height: 500px;
+    position: absolute;
+    top: 3900px;
+    left: 200px;
+}
+
+.toggle-btn4{
+    padding: 10px 30px;
+    font-size: 20px;
+    padding: 10px 30px;
+    cursor: pointer;
+    border: 0;
+    top: 3750px;
+    left: 700px;
+    background: red;
+    color: #fff;
+    outline: none;
+    position: relative;
+    border-radius: 20px;
+}
+
+.toggle-btn4:hover
+{
+    cursor: pointer;
+    background: #ffc107;
+    color: #000;
+}
+
+.space8{
+     width: 700px;
+    height: 600px;
+    position: absolute;
+    top: 4200px;
+    left: 400px;
+}
+
+.space9{
+     width: 1000px;
+    height: 500px;
+    position: absolute;
+    top: 4700px;
+    left: 200px;
+}
+
+.toggle-btn5{
+    padding: 10px 30px;
+    font-size: 20px;
+    padding: 10px 30px;
+    cursor: pointer;
+    border: 0;
+    top: 4600px;
+    left: 700px;
+    background: red;
+    color: #fff;
+    outline: none;
+    position: relative;
+    border-radius: 20px;
+}
+
+.toggle-btn5:hover
+{
+    cursor: pointer;
+    background: #ffc107;
+    color: #000;
+}
+
+
+
